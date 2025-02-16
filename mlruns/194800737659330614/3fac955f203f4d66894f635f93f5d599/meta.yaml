@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/OneDrive/Desktop/Titanic/mlruns/194800737659330614/3fac955f203f4d66894f635f93f5d599/artifacts
+end_time: 1739703075997
+entry_point_name: ''
+experiment_id: '194800737659330614'
+lifecycle_stage: active
+run_id: 3fac955f203f4d66894f635f93f5d599
+run_name: bustling-gnat-240
+run_uuid: 3fac955f203f4d66894f635f93f5d599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739703044855
+status: 3
+tags: []
+user_id: HP
